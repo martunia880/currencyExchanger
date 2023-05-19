@@ -28,3 +28,6 @@ To run the Currency Exchanger application on your local environment, follow thes
 
 ## Summary
 Currency Exchanger is a simple and convenient web application that allows users to perform currency conversions with ease.
+
+### Author
+[Marta Guza ](https://github.com/martunia880)
