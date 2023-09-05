@@ -26,8 +26,8 @@ To run the Currency Exchanger application on your local environment, follow thes
 2. Open the index.html file in any modern web browser.
 3. After completing these steps, the application should be visible and ready to use.
 
-## Summary
-Currency Exchanger is a simple and convenient web application that allows users to perform currency conversions with ease.
+## Presentation
+[[Click to see project on YouTube]](https://youtu.be/NBoq-TIK-Rs)
 
 ### Author
 [Marta Guza ](https://github.com/martunia880)
