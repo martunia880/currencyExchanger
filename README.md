@@ -27,8 +27,7 @@ To run the Currency Exchanger application on your local environment, follow thes
 3. After completing these steps, the application should be visible and ready to use.
 
 ## Presentation
-[[Click to see project on YouTube]](https://youtu.be/NBoq-TIK-Rs){:target="_blank"}
-<a href="https://youtu.be/NBoq-TIK-Rs" target="_blank">Otwórz w nowym oknie</a>
+[[Click to see project on YouTube]](https://youtu.be/NBoq-TIK-Rs)
 
 ### Author
 [Marta Guza ](https://github.com/martunia880)
